@@ -6,4 +6,6 @@ user data will be store in mondodb.
 2.run ' npm install '
 3.run 'npm in install -g nodemon'
 4.run 'nodemon' 
+5.now open browser and paste following URL to access APIs:
+           http://localhost:5000/api-docs/#/
 enjoy!
